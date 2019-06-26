@@ -1,4 +1,5 @@
 # <p align='center'>neurostyle </p>
+## <p align='center'> style your life </p>
 
 
 * **Neural image style transfer** in the browser.
