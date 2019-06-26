@@ -21,7 +21,7 @@
 
 ## Heroku Deployment
 
-[Freaky-Styley Deployed](https://freaky-styley-brt2.herokuapp.com/)
+[neurostyle Deployed](https://freaky-styley-brt2.herokuapp.com/)
 
 ## Contributing
 

@@ -6,8 +6,9 @@ body {
   font-size: 1.2rem;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: url('./background.jpg');
-  background-size: cover;
+  background-image: url("what-the-hex.png");
+  opacity:0.9;
+  background-color: lightgreen;
   box-sizing: border-box;
 }
 

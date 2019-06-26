@@ -15,7 +15,7 @@ const NavLogout = (props) => (
           <span className="icon-bar"></span>
         </button>
         <p className="navbar-brand">
-          <Link to={"/home"}>freaky-styley</Link>
+          <Link to={"/home"}>neurostyle</Link>
         </p>
       </div>
 
