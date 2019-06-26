@@ -1,7 +1,7 @@
 .img-thumbnail,
 .img-container {
-  height: 300px !important;
-  width: 300px !important;
+  height: 18.75rem !important;
+  width: 18.75rem  !important;
   box-sizing: border-box !important;
 }
 
@@ -15,22 +15,22 @@
 }
 
 .img-placeholder {
-  padding-top: 130px;
+  padding-top: 8.125rem;
 }
 
 .input-group.mb-3 {
-  margin-top: 5px !important;
+  margin-top: .3125rem !important;
 }
 
 .op {
   margin: 0;
   padding: 0;
-  padding-top: 90px;
-  font-size: 80px !important;
+  padding-top: 5.625rem;
+  font-size: 5rem !important;
 }
 
 .column {
-  min-width: 300px;
+  min-width: 18.75rem;
   padding: 0;
 }
 
@@ -46,7 +46,7 @@ option,
 }
 
 label {
-  margin-top: 5px;
+  margin-top: .3125rem;
   font-weight: 400;
 }
 
@@ -62,15 +62,15 @@ select:hover {
 }
 
 .caption {
-  margin-top: 10px;
-  margin-bottom: 5px;
+  margin-top: .625rem;
+  margin-bottom: .3125rem;
   font-size: 2.3rem !important;
   font-weight: 700;
   background-color: none;
 }
 
 h1.display-4 {
-  font-size: 50px !important;
+  font-size: 3.125rem !important;
 }
 
 input,
@@ -80,12 +80,12 @@ input,
 }
 
 #share-container {
-  margin-top: 10px;
+  margin-top: .625rem;
 }
 
 .file-container {
   background: none !important;
-  margin-top: 10px;
+  margin-top: .625rem;
 }
 
 #file-input {

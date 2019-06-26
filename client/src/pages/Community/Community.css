@@ -1,5 +1,5 @@
 .img-container-community {
-    margin: 0 0 20px 0;
+    margin: 0 0 1.25rem 0;
     padding: 0;
     box-sizing: border-box;
 }
@@ -9,7 +9,7 @@
 }
 
 .like-button {
-    border-radius: 5px;
-    margin: 0 2px;
+    border-radius: .3125rem;
+    margin: 0 .125rem;
     background-color: rgb(248, 254, 255)!important;
 }

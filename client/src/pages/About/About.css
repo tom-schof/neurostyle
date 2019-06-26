@@ -13,13 +13,13 @@
   text-align: center!important;
 }
 article img {
-  height:100px!important;
+  height:6.25rem!important;
   float:left!important;
   margin: 0.25em 0.25em 1em 0;
 }
 
 article img.bootstrap {
-  margin-left: 5px;
+  margin-left: .3125rem;
 }
 
 

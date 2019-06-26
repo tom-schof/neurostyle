@@ -1,13 +1,13 @@
 .shadow {
-  -webkit-box-shadow: 6px 6px 16px 0px rgba(120, 120, 120, 0.6);
-  -moz-box-shadow: 6px 6px 16px 0px rgba(120, 120, 120, 0.6);
-  box-shadow: 6px 6px 16px 0px rgba(120, 120, 120, 0.6);
+  -webkit-box-shadow: 0.375rem 0.375rem 1rem 0rem rgba(120, 120, 120, 0.6);
+  -moz-box-shadow: 0.375rem 0.375rem 1rem 0rem rgba(120, 120, 120, 0.6);
+  box-shadow: 0.375rem 0.375rem 1rem 0rem rgba(120, 120, 120, 0.6);
 }
 
-.text-shadow { 
-  text-shadow: 2px 2px 2px whitesmoke!important;
+.text-shadow {
+  text-shadow: .125rem .125rem .125rem whitesmoke !important;
 }
 
 body {
-  margin-bottom:7rem;
+  margin-bottom: 7rem;
 }

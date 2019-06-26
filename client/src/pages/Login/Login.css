@@ -11,12 +11,12 @@
 
 .loginImage {
     width: 100%;
-    margin-top: 70px;
+    margin-top: 4.375rem;
 }
 
 .login-col {
     margin: 0;
-    padding: 0 20px 10px 20px;
+    padding: 0 1.25rem .625rem 1.25rem;
 }
 
 .login-col > .jumbotron {
@@ -30,10 +30,10 @@
 .header-message {
     font-family: greatVibes;
     font-weight: 700;
-    font-size: 80px;
+    font-size: 5rem;
     width: 100%;
-    margin-bottom: 40px;
+    margin-bottom: 2.5rem;
     background-color: lightblue;
-    padding: 30px;
+    padding: 1.875rem;
     border-radius: 0.5rem;
 }
