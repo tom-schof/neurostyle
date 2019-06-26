@@ -1,4 +1,4 @@
-# <p align='center'>:fire: :zap: :volcano: freaky-styley :v: :metal: :fire:</p>
+# <p align='center'>neurostyle </p>
 
 
 * **Neural image style transfer** in the browser.
@@ -46,4 +46,3 @@ The rest of this project is licensed under the MIT License - see the [LICENSE.md
 * Logan Engstrom for Fast Style Transfer
 * CvalenzuelaB for docker container
 * T.A.s for their most gracious help
-* Thanks Mom
