@@ -96,6 +96,7 @@ input,
 
 .sub-container {
   margin: 0 auto;
+  display: flex;
 }
 
 .row {

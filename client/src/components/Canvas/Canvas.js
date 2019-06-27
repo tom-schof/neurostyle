@@ -207,8 +207,8 @@ class Canvas extends Component {
         <div className="sub-container">
 
         
-          <div className="row mx-auto text-center">
-            <div className="col-md-3 col-sm-5 text-center column">
+          <div className="row">
+            <div className="col-md-3">
               <div className="img-container text-center mx-auto shadow">
                 {this.state.inputImg ? <img src={this.state.inputImg} alt="input" className="img-thumbnail" /> : <p className="img-placeholder">Input Image</p>}
               </div>
@@ -232,11 +232,11 @@ class Canvas extends Component {
               </form>
             </div>
 
-            <div className="col-md-1 col-sm-1 text-center">
+            <div className="col-md-1 text-center">
               <h1 className="mx-auto op text-shadow">+</h1>
             </div>
 
-            <div className="col-md-3 col-sm-5 text-center column">
+            <div className="col-md-3">
               <div className="img-container text-center mx-auto shadow">
                 {this.state.styleImg ? <img src={this.state.styleImg} alt="result" className="img-thumbnail" /> : <p className="img-placeholder">Style Image</p>}
               </div>
@@ -269,11 +269,11 @@ class Canvas extends Component {
               </form>
             </div>
 
-            <div className="col-md-1 col-sm-1 text-center">
+            <div className="col-md-1">
               <h1 className="mx-auto op text-shadow">=</h1>
             </div>
 
-            <div className="col-md-3 col-sm-5 text-center column">
+            <div className="col-md-3">
               <div className="img-container text-center mx-auto shadow">
                 {this.state.resultImg ? <img src={this.state.resultImg} alt="result" className="img-thumbnail" /> : <p className="img-placeholder">Result Image</p>}
               </div>
